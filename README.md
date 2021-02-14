@@ -10,7 +10,7 @@ Experiência
 **Background in:** Python, Machine Learning.
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
+* [LinkedIn](www.linkedin.com/in/william-morais)
 
 
 ## Projetos:
