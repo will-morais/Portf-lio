@@ -10,7 +10,7 @@ Experiência
 **Background in:** Python, Machine Learning.
 
 **Links:**
-* [LinkedIn](www.linkedin.com/in/william-morais)
+* [LinkedIn](http://www.linkedin.com/in/william-morais)
 
 
 ## Projetos:
