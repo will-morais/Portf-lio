@@ -7,7 +7,11 @@
 
 Experiência:
 
-Formado no curso de Ciência da Computação na Universidade Municipal de São Caetano do Sul, experiência na área de automação bancária. Experiência em atendimento a clientes, respeitando prazos e SLA's.
+Formado no curso de Ciência da Computação na Universidade Municipal de São Caetano do Sul, experiência na área de automação bancária. Experiência em atendimento a clientes, respeitando prazos e SLA's. Atualmente estudando Data Scientist com a linguguem de programação Python, Machine Learning. 
+
+Pincipais bibliotecas utilizadas:
+
+## Pandas, matplotlib
 
 **Background in:** Python, Machine Learning.
 
