@@ -7,11 +7,11 @@
 
 Experiência:
 
-Formado no curso de Ciência da Computação na Universidade Municipal de São Caetano do Sul, experiência na área de automação bancária. Experiência em atendimento a clientes, respeitando prazos e SLA's. Atualmente estudando Data Scientist com a linguguem de programação Python, Machine Learning. 
+Formado no curso de Ciência da Computação na Universidade Municipal de São Caetano do Sul, experiência na área de automação bancária. Experiência em atendimento a clientes, respeitando prazos e SLA's. Atualmente estudando Data Scientist com a linguguem de programação Python e Machine Learning utilizando o Pandas e Google Colaboratory. 
 
 Pincipais bibliotecas utilizadas:
 
-## Pandas, matplotlib
+** Pandas, matplotlib
 
 **Background in:** Python, Machine Learning.
 
@@ -20,3 +20,5 @@ Pincipais bibliotecas utilizadas:
 
 
 ## Projetos:
+
+* **Como usar o Histograma para Data Science:** https://
