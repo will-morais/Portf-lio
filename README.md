@@ -5,17 +5,15 @@
 # William de Alencar Morais
 <sub>*Estudante de Data Scientist*</sub>
 
-Experiência:
+**Experiência:**
 
-Formado no curso de Ciência da Computação na Universidade Municipal de São Caetano do Sul, experiência na área de automação bancária. Experiência em atendimento a clientes, respeitando prazos e SLA's. Atualmente estudando Data Scientist com a linguguem de programação Python e Machine Learning utilizando o Pandas e Google Colaboratory. 
+Formado no curso de Ciência da Computação na Universidade Municipal de São Caetano do Sul, experiência na área de automação bancária. Experiência em atendimento a clientes, respeitando prazos e SLA's. Atualmente estudando e desenvolvendo habilidades em Data Scientist, com a linguguem de programação Python, e Machine Learning utilizando o Google Colaboratory. 
 
-Pincipais bibliotecas utilizadas:
+**Pincipais bibliotecas utilizadas:** Pandas, matplotlib.
 
-** Pandas, matplotlib
+**Background in:** Python,, Data Science, Machine Learning.
 
-**Background in:** Python, Machine Learning.
-
-**Links:**
+## **Links:**
 * [LinkedIn](http://www.linkedin.com/in/william-morais)
 
 
