@@ -7,11 +7,12 @@
 
 **Experiência:**
 
-Formado no curso de Ciência da Computação na Universidade Municipal de São Caetano do Sul, experiência na área de automação bancária. Experiência em atendimento a clientes, respeitando prazos e SLA's. Atualmente estudando e desenvolvendo habilidades em Data Scientist, com a linguguem de programação Python, e Machine Learning utilizando o Google Colaboratory. 
+Formado em Ciência da Computação. Experiência na área de automação bancária, atualmente estudando e desenvolvendo habilidades em Data Scientist, com a linguguem de programação Python, e Machine Learning.
+
 
 **Pincipais bibliotecas utilizadas:** Pandas, matplotlib.
 
-**Background in:** Python,, Data Science, Machine Learning.
+**Background in:** Python, Data Science, Machine Learning.
 
 ## **Links:**
 * [LinkedIn](http://www.linkedin.com/in/william-morais)
