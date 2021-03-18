@@ -15,6 +15,8 @@ Formado no curso de Ciência da Computação na Universidade Municipal de São C
 
 ## **Links:**
 * [LinkedIn](http://www.linkedin.com/in/william-morais)
+* [Medium](https://medium.com/@william-morais)
+
 
 
 ## Projetos:
