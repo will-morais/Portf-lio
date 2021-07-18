@@ -7,7 +7,7 @@
 
 **Experiência:**
 
-Formado em Ciência da Computação. Experiência na área de automação bancária, atualmente estudando e desenvolvendo habilidades em Data Scientist, com a linguguem de programação Python, e Machine Learning.
+Formado em Ciência da Computação. Experiência na área de automação bancária, atualmente estudando e desenvolvendo habilidades em Data Scientist, com a linguaguem de programação Python, e Machine Learning.
 
 
 **Pincipais bibliotecas utilizadas:** Pandas, matplotlib.
